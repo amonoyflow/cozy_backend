@@ -1,0 +1,5 @@
+database:
+  connectionURI: "postgres-database-uri"
+
+server:
+  port: 8080
