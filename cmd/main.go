@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/amonoyflow/cozy_backend/cmd/config"
+	"github.com/amonoyflow/cozy_backend/cmd/cozy/config"
 )
 
 func main() {
